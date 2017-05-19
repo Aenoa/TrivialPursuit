@@ -1,0 +1,3 @@
+{"Author":"Deborah","Category":"Geography","Statement":"Quelle est la capitale de la Belgique?\n","Choices":{"Berlin":false,"Bruxelles":true,"Lisbonne":false,"Paris":false}}
+{"Author":"Hugo","Category":"Economy","Statement":"La Belgique est une économié:\n","Choices":{"Communiste":false,"Capitaliste":true,"Aucune":false,"Socialiste":false}}
+{"Author":"Mélanie","Category":"History","Statement":"Quand a eu lieu les attentats aux Etats-Unis?\n","Choices":{"11 Janvier":false,"11 Mars":false,"11 Octobre":false,"11 Septembre":true}}
